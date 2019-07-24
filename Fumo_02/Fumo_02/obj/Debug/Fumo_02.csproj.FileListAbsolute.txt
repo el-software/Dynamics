@@ -1,0 +1,14 @@
+C:\Users\luciano\ownCloud\11_VisualStudio\Fumo_02\Fumo_02\bin\Debug\Fumo_02.exe.config
+C:\Users\luciano\ownCloud\11_VisualStudio\Fumo_02\Fumo_02\bin\Debug\Fumo_02.exe
+C:\Users\luciano\ownCloud\11_VisualStudio\Fumo_02\Fumo_02\bin\Debug\Fumo_02.pdb
+C:\Users\luciano\ownCloud\11_VisualStudio\Fumo_02\Fumo_02\obj\Debug\Fumo_02.csprojResolveAssemblyReference.cache
+C:\Users\luciano\ownCloud\11_VisualStudio\Fumo_02\Fumo_02\obj\Debug\Fumo_02.csproj.CoreCompileInputs.cache
+C:\Users\luciano\ownCloud\11_VisualStudio\Fumo_02\Fumo_02\obj\Debug\Fumo_02.exe
+C:\Users\luciano\ownCloud\11_VisualStudio\Fumo_02\Fumo_02\obj\Debug\Fumo_02.pdb
+C:\Users\eros.luciano.CED\ownCloud\11_VisualStudio\Fumo_02\Fumo_02\bin\Debug\Fumo_02.exe.config
+C:\Users\eros.luciano.CED\ownCloud\11_VisualStudio\Fumo_02\Fumo_02\bin\Debug\Fumo_02.exe
+C:\Users\eros.luciano.CED\ownCloud\11_VisualStudio\Fumo_02\Fumo_02\bin\Debug\Fumo_02.pdb
+C:\Users\eros.luciano.CED\ownCloud\11_VisualStudio\Fumo_02\Fumo_02\obj\Debug\Fumo_02.csprojAssemblyReference.cache
+C:\Users\eros.luciano.CED\ownCloud\11_VisualStudio\Fumo_02\Fumo_02\obj\Debug\Fumo_02.csproj.CoreCompileInputs.cache
+C:\Users\eros.luciano.CED\ownCloud\11_VisualStudio\Fumo_02\Fumo_02\obj\Debug\Fumo_02.exe
+C:\Users\eros.luciano.CED\ownCloud\11_VisualStudio\Fumo_02\Fumo_02\obj\Debug\Fumo_02.pdb

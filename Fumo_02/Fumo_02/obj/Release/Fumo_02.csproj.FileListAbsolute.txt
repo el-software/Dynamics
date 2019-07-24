@@ -1,0 +1,7 @@
+C:\Users\luciano\ownCloud\11_VisualStudio\Fumo_02\Fumo_02\bin\Release\Fumo_02.exe.config
+C:\Users\luciano\ownCloud\11_VisualStudio\Fumo_02\Fumo_02\bin\Release\Fumo_02.exe
+C:\Users\luciano\ownCloud\11_VisualStudio\Fumo_02\Fumo_02\bin\Release\Fumo_02.pdb
+C:\Users\luciano\ownCloud\11_VisualStudio\Fumo_02\Fumo_02\obj\Release\Fumo_02.csproj.CoreCompileInputs.cache
+C:\Users\luciano\ownCloud\11_VisualStudio\Fumo_02\Fumo_02\obj\Release\Fumo_02.exe
+C:\Users\luciano\ownCloud\11_VisualStudio\Fumo_02\Fumo_02\obj\Release\Fumo_02.pdb
+C:\Users\luciano\ownCloud\11_VisualStudio\Fumo_02\Fumo_02\obj\Release\Fumo_02.csprojResolveAssemblyReference.cache
